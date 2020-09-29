@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Teszt
 xy   tamás
+=======
+
+xy
+xxxxxxxxxx
