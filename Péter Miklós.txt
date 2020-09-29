@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+fgew
+xy
+=======
+<<<<<<< HEAD
 Teszt
 xy   tamás
 =======
 
 xy
 xxxxxxxxxx
+>>>>>>> 8c29e8664fbf40a89c1e5bc79d70736a6e1e95c8
